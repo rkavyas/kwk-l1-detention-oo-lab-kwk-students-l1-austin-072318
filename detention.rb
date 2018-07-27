@@ -2,4 +2,9 @@
 
 class Detention
   
+  
+  
+  
+  
+  
 end
