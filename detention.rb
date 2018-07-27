@@ -6,7 +6,7 @@ class Detention
     
     @test.location = test.location 
   
-end 
+  end 
   
   
 end
